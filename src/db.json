@@ -1,9 +1,1 @@
-{
-  "users": [
-    {
-      "name": "andre trevizam",
-      "email": "andre@email.com",
-      "id": "de24c7a4-ef37-4ee6-a91a-a1b7e37b83fe"
-    }
-  ]
-}
+{"users":[{"id":"c1a497ac-a284-4771-aed4-43b70abf80e8","name":"andre","email":"andre@email.com"},{"name":"andre 3","email":"andre3@email.com","id":"35e4a0a3-58b6-4556-9562-f287b73b4ef2"}]}
